@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "akg4jLW/+PumI16VejJxSiuvOR3OY4cnkjUgUo/TAqCgAyO32419L5Mnr6ZsxorO1BUL//o/o9WzF5FH62ujTg==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/RiderProjects/GtkApplication1/GtkApplication1/GtkApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/atksharp/3.24.24.34/atksharp.3.24.24.34.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/cairosharp/3.24.24.34/cairosharp.3.24.24.34.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/gdksharp/3.24.24.34/gdksharp.3.24.24.34.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/giosharp/3.24.24.34/giosharp.3.24.24.34.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/glibsharp/3.24.24.34/glibsharp.3.24.24.34.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/gtksharp/3.24.24.34/gtksharp.3.24.24.34.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/pangosharp/3.24.24.34/pangosharp.3.24.24.34.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.14/microsoft.netcore.app.host.osx-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
